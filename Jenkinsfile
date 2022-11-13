@@ -1,3 +1,3 @@
-@Library('robot-shared-library')
+@Library('robot-shared-library@main') _
 
 nodejs()
